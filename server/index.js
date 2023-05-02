@@ -30,7 +30,7 @@ app.use("/product", productRoutes)
 app.use("/transaction", transactionRoutes)
 
 /* MONGOOSE SETUP */
-const PORT = process.env.PORT || 5000
+const PORT = process.env.PORT || 9000
 
 console.log("Contecting.....")
 
