@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Alkatra&family=Inter:wght@400;600;700&family=Poppins&display=swap");
+
+/* body {
+  margin: 0;
+  padding: 0;
+} */
+
+html,
+body,
+#root,
+.app {
+  height: 100%;
+  width: 100%;
+  font-family: "Inter", sans-serif;
+  background-color: #1f2026;
+}
+
+body {
+  overflow-y: scroll;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #242427;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #48494e;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #6e9f9b;
+}
