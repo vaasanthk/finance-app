@@ -49,7 +49,7 @@ You should see a link in the terminal to launch the application in your browser.
 
 OR Press letter O to launch.
 
-Deployed on vercel click the below link:
+Deployed on vercel:
 https://finance-5if4np5wy-vaasanthk.vercel.app/
 
 
