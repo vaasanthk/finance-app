@@ -45,9 +45,9 @@ mongoose
     })
 
     /* Add data one time only or as needed */
-    // await mongoose.connection.db.dropDatabase()
-    // KPI.insertMany(kpis)
-    // Product.insertMany(products)
-    // Transaction.insertMany(transactions)
+    await mongoose.connection.db.dropDatabase()
+    KPI.insertMany(kpis)
+    Product.insertMany(products)
+    Transaction.insertMany(transactions)
   })
   .catch((err) => console.log(err, "did not connect"))
