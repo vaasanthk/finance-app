@@ -36,7 +36,7 @@ Clone this repo
 
 Create .env file in Server folder you need to provide MONGO_URI and PORT
 
-Create .env file in Clint folder copy paste this `VITE_BASE_URL=http://localhost:1337`
+Create .env file in Client folder copy paste this `VITE_BASE_URL=http://localhost:1337`
 
 ```
 git clone https://github.com/vaasanthk/finance-app.git
@@ -49,6 +49,8 @@ You should see a link in the terminal to launch the application in your browser.
 
 OR Press letter O to launch.
 
+Deployed on vercel click the below link:
+https://finance-5if4np5wy-vaasanthk.vercel.app/
 
 
 # Thank you!
