@@ -1,3 +1,4 @@
+// select the hexa color and clt kg to have different shades
 export const tokens = {
   grey: {
     100: "#f0f0f3",
